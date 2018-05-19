@@ -1,0 +1,46 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Sumana:400,700');
+@import url('https://fonts.googleapis.com/css?family=Arya:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+body {
+  background-color:palegoldenrod;
+  font-family: "Sumana", sans-serif;
+  padding: 5px 25px;
+  font-size: 25px;
+  margin: 0;
+  color:midnightblue ;
+}
+
+h1 {
+  font-family: "Arya", serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+p
+{
+  text-align: justify;
+}
+.i1
+{
+  border-color: lightcoral;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}
+.i2
+{
+  float:left; 
+  margin:0px 15px 15px 15px;
+  max-width: 250px;
+}
+button{
+  background-color: gold;
+}
+a:hover {
+  text-decoration: none;
+}
+ul {
+  list-style-image: url('image/dove.png');
+  
+}
